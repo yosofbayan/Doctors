@@ -25,6 +25,7 @@ import java.util.Map;
 
 public class MainPageActivity extends AppCompatActivity {
     List <Sector> sectors ;
+    //اههه
     RecyclerView recyclerView ;
     SectorsAdapter sectorsAdapter ;
     public void getHome_aDataFromFirebase () {
